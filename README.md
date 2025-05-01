@@ -1,2 +1,2 @@
 # Autonomous-Robot-Car
-This is my senior project
+This project focuses on designing an autonomous robot car using the Raspberry Pi 4 Model B as the main controller, equipped with essential functionalities such as object avoidance, lane tracking and traffic detection. By integrating a range of sensors and cameras, the system collects real-time data to ensure precise navigation and effective decision-making through advanced algorithms.
